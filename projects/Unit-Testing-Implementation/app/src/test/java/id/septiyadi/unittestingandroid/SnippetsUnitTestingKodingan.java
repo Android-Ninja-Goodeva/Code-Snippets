@@ -1,2 +1,5 @@
-package id.septiyadi.unittestingandroid;public class SnippetsUnitTestingKodingan {
+package id.septiyadi.unittestingandroid;
+
+public class SnippetsUnitTestingKodingan {
+
 }
